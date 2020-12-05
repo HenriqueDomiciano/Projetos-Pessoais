@@ -1,0 +1,2 @@
+Tensao: 23.21V ; Corrente : 22.23 ; Temperatura :322
+Tensao: 23.21V ; Corrente : 54.11 ; Temperatura :12
